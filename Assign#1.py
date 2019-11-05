@@ -8,15 +8,7 @@ a="up above the world so high,"
 
 b="like a diamond in the sky."
 
-print(w+" " +w+" "+x+"\n "
-           "   "+z+"\n"
-     "        "+a+"\n""        "+b+"\n"
-     +w+" " +w+" "+x+"\n
- "
-           "   "+z+"\n")
-
-
-# 
+print(w+" " +w+" "+x+"\n "           "   "+z+"\n"     "        "+a+"\n""        "+b+"\n"     +w+" " +w+" "+x+"\n "           "   "+z+"\n")
 
 
 import platform
